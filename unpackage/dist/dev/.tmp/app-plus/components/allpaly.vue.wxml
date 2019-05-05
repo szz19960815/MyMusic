@@ -1,0 +1,1 @@
+<template name="93983186"><view class="_view 93983186 allPlay clear borderColorTop borderColorBottom" bindtap="handleProxy" data-eventid="{{'93983186-0'}}" data-comkey="{{$k}}"><image class="_image 93983186 allPlayIcon fl" src="../../static/image/icon/kaishiH.png"></image><view class="_view 93983186 allPlayLabel fl">全部播放</view></view></template>

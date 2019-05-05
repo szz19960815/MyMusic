@@ -1,0 +1,9 @@
+<import src="/components/top.vue.wxml" />
+<import src="/components/albumblock.vue.wxml" />
+<import src="/pages/new/index.vue.wxml" />
+<import src="/pages/record/index.vue.wxml" />
+<import src="/components/allpaly.vue.wxml" />
+<import src="/components/playlist.vue.wxml" />
+<import src="/components/album.vue.wxml" />
+<import src="/components/playbot.vue.wxml" />
+
